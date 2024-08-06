@@ -32,30 +32,30 @@ Al termine dell'elaborazione il file di output prodotto viene confrontato con un
 La valutazione viene eseguita mediante un sito web del Politecnico di Milano: dopo aver caricato il proprio codice sorgente sul sito, esso viene compilato ed eseguito su un server remoto.
 
 Di seguito sono elencati i rispettivi requisiti di tempo e memoria per ogni fascia di voto:
-|VOTO   |TEMPO  |MEMORIA  |ESITO             |
-| ----- | ---- | ------   | ---------------- |
-|OPEN (*)|45.0 s|150.0 MiB |:white_check_mark:|
-|18     |14.0 s|35.0 MiB  |:white_check_mark:|
-|21     |11.5 s|30.0 MiB  |:white_check_mark:|
-|24     |9.0 s |25.0 MiB  |:white_check_mark:|
-|27     |6.5 s |20.0 MiB  |:white_check_mark:|
-|30     |4.0 s |15.0 MiB  |:white_check_mark:|
-|30L    |1.5 s |14.0 MiB  |:white_check_mark:|
+| VOTO     | TEMPO  | MEMORIA   | ESITO              |
+| ---------|--------|-----------|--------------------|
+| OPEN (*) | 45.0 s | 150.0 MiB | :white_check_mark: |
+| 18       | 14.0 s | 35.0 MiB  | :white_check_mark: |
+| 21       | 11.5 s | 30.0 MiB  | :white_check_mark: |
+| 24       | 9.0 s  | 25.0 MiB  | :white_check_mark: |
+| 27       | 6.5 s  | 20.0 MiB  | :white_check_mark: |
+| 30       | 4.0 s  | 15.0 MiB  | :white_check_mark: |
+| 30L      | 1.5 s  | 14.0 MiB  | :white_check_mark: |
 
 (*) OPEN è un test con ampi margini di tempo e memoria utilizzabile per permettere agli studenti di avere un riferimento sul tempo impiegto e sulla memoria utilizzata dal loro programma qualora non riuscissero a superare il test 18.
 
 Timeline del mio progetto, con allegato i vari programmi con cui ho superato per la prima volta ogni fascia di voto:
-|DATA|EVENTO|TEMPO|MEMORIA|CODICE SORGENTE|
-|----|------|-----|-------|-|
-|15/07/2024|Inizio progetto|  N/A  | N/A   | N/A|
-|29/07/2024|Superato test OPEN|  21.776 s  | 68.5 MiB   | non disponibile|
-|30/07/2024|Superato test 18| 12.548 s  | 14.3 MiB   | non disponibile|
-|30/072024|Superato test 21|    11.355 s  | 14.5 MiB  | non disponibile|
-|01/08/2024|Superato test 24|    7.784 s| 12.2 MiB   |non disponibile|
-|04/08/2024|Superato test 27|   1.513 s | 9.22 MiB   |non disponibile|
-|04/08/2024|Superato test 30| 1.495 s | 9.22 MiB  |non disponibile|
-|04/08/2024|Superato test 30L|  1.497 s   |  9.22 MiB  |non disponibile|
-04/08/2024|Termine progetto|  N/A  | N/A   |N/A|
+| DATA       | EVENTO             | TEMPO    | MEMORIA  | CODICE SORGENTE |
+|------------|--------------------|----------|----------|-----------------|
+| 15/07/2024 | Inizio progetto    | N/A      | N/A      | N/A             |
+| 29/07/2024 | Superato test OPEN | 21.776 s | 68.5 MiB | non disponibile |
+| 30/07/2024 | Superato test 18   | 12.548 s | 14.3 MiB | non disponibile |
+| 30/072024  | Superato test 21   | 11.355 s | 14.5 MiB | non disponibile |
+| 01/08/2024 | Superato test 24   | 7.784 s  | 12.2 MiB | non disponibile |
+| 04/08/2024 | Superato test 27   | 1.513 s  | 9.22 MiB | non disponibile |
+| 04/08/2024 | Superato test 30   | 1.495 s  | 9.22 MiB | non disponibile |
+| 04/08/2024 | Superato test 30L  | 1.497 s  | 9.22 MiB | non disponibile |
+| 04/08/2024 | Termine progetto   | N/A      | N/A      | N/A             |
 
 La pagina è incompleta.
 I file e la pagina saranno aggiornate una volta terminato il periodo di consegna e valutazione della prova per evitare casi di plagio.
