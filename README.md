@@ -58,4 +58,4 @@ Timeline del mio progetto, con allegato i vari programmi con cui ho superato per
 | 04/08/2024 | Termine progetto   | N/A      | N/A      | N/A             |
 
 La pagina è incompleta.
-I file e la pagina saranno aggiornate una volta terminato il periodo di consegna e valutazione della prova per evitare casi di plagio.
+I file e la pagina saranno aggiornati una volta terminato il periodo di consegna e valutazione della prova per evitare casi di plagio.
