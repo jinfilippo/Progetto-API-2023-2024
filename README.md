@@ -2,9 +2,10 @@
 Il progetto di Algoritmi e Strutture Dati è un progetto di programmazione assegnato agli studenti del corso di Algoritmi e Principi dell'Informatica (API) del Politecnico di Milano.  
 Il corso di API si segue di norma durante il secondo semestre del secondo anno di Laurea Triennale di Ingengneria Informatica.  
 Il progetto viene assegnato al termine di tale corso, a Maggio/Giugno, da svolgere durante l'estate e consegnare entro i primi giorni di Settembre.  
+Esso ha un valore di 1 CFU.  
 
-# Requisiti e valutazione del progetto
-Il progetto vale 1 CFU ed è richiesto l'utilizzo esckusivo del linguaggio C11 (ISO/IEC 9899:2011). Inoltre è permesso solo l'utilizzo della C Standard Library, che contiene le seguenti librerie:
+# Descrizione del progetto A.A. 2023/2024
+Il progetto richiede l'utilizzo esckusivo del linguaggio C11 (ISO/IEC 9899:2011). Inoltre è permesso solo l'utilizzo della C Standard Library, che contiene le seguenti librerie:
 * <assert.h>
 * <ctype.h>
 * <errno.h>
@@ -23,9 +24,10 @@ Il progetto viene valutato considerando tre aspetti:
 2. Il programma deve completare il calcolo entro un determinato tempo.
 3. Il programma deve avere un uso di memoria di picco inferiore ad una certa soglia.
    
-La prova di quest'anno consiste nel progettare un programma che simuli il funzionamento di una pasticceria: dopo aver fornito al programma un file di testo (.txt) in ingresso tramite stdin, il programma esegue le istruzioni presenti nel file e salva il suo output in un altro file di testo.  
+La prova di quest'anno consiste nel progettare un programma che simuli il funzionamento di una pasticceria: dopo aver fornito al programma un file (.txt) in ingresso tramite stdin, il programma esegue le istruzioni presenti nel file e salva il suo output in un altro file di testo.  
 Al termine dell'elaborazione il file di output prodotto viene confrontato con un file di riferimento per controllare che i due siano uguali.  
 La valutazione viene eseguita attraverso un sito web del Politecnico di Milano: dopo aver caricato il proprio codice sorgente sul sito, esso viene compilato ed eseguito su un server remoto.  
+
 Di seguito sono elencati i rispettivi requisiti di tempo e memoria per ogni fascia di voto:
 
 | VOTO     | TEMPO  | MEMORIA   | ESITO              |
