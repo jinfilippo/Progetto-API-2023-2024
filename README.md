@@ -1,12 +1,10 @@
-# Progetto-API-2023-2024
-Progetto di Algoritmi e Strutture Dati A.A. 2023/2024 - Politecnico di Milano.
+# Progetto-API-2023-2024 - Politecnico di Milano
+Il progetto di Algoritmi e Strutture Dati è un progetto di programmazione assegnato agli studenti del corso di Algoritmi e Principi dell'Informatica (API) del Politecnico di Milano.  
+Il corso di API si segue di norma durante il secondo semestre del secondo anno di Laurea Triennale di Ingengneria Informatica.  
+Il progetto viene assegnato al termine di tale corso, a Maggio/Giugno, da svolgere durante l'estate e consegnare entro i primi giorni di Settembre.  
 
-Il progetto di Algoritmi e Strutture Dati è un progetto di programmazione assegnato agli studenti del corso di Algoritmi e Principi dell'Informatica (API) del Politecnico di Milano.
-Il corso di API si segue di norma durante il secondo semestre del secondo anno di Laurea Triennale di Ingengneria Informatica.
-
-Il progetto viene assegnato al termine di tale corso, a Maggio/Giugno, da svolgere durante l'estate e consegnare entro i primi giorni di Settembre.
-
-Esso vale 1 CFU ed è richiesto l'utilizzo del linguaggio C11 (ISO/IEC 9899:2011). Inoltre è permesso solo l'utilizzo della C Standard Library, che contiene le seguenti librerie:
+# Requisiti e valutazione del progetto
+Il progetto vale 1 CFU ed è richiesto l'utilizzo esckusivo del linguaggio C11 (ISO/IEC 9899:2011). Inoltre è permesso solo l'utilizzo della C Standard Library, che contiene le seguenti librerie:
 * <assert.h>
 * <ctype.h>
 * <errno.h>
@@ -24,14 +22,12 @@ Il progetto viene valutato considerando tre aspetti:
 1. Il file di output prodotto dal programma deve essere corretto.
 2. Il programma deve completare il calcolo entro un determinato tempo.
 3. Il programma deve avere un uso di memoria di picco inferiore ad una certa soglia.
-
-La prova di quest'anno consiste nel progettare un programma che simuli il comportamento di una pasticceria: dopo aver fornito al programma un file di testo (.txt) in ingresso tramite stdin,
-il programma esegue le istruzioni presenti nel file e salva il suo output in un altro file di testo.
-Al termine dell'elaborazione il file di output prodotto viene confrontato con un file di riferimento per controllare che i due siano uguali.
-
-La valutazione viene eseguita mediante un sito web del Politecnico di Milano: dopo aver caricato il proprio codice sorgente sul sito, esso viene compilato ed eseguito su un server remoto.
-
+   
+La prova di quest'anno consiste nel progettare un programma che simuli il funzionamento di una pasticceria: dopo aver fornito al programma un file di testo (.txt) in ingresso tramite stdin, il programma esegue le istruzioni presenti nel file e salva il suo output in un altro file di testo.  
+Al termine dell'elaborazione il file di output prodotto viene confrontato con un file di riferimento per controllare che i due siano uguali.  
+La valutazione viene eseguita attraverso un sito web del Politecnico di Milano: dopo aver caricato il proprio codice sorgente sul sito, esso viene compilato ed eseguito su un server remoto.  
 Di seguito sono elencati i rispettivi requisiti di tempo e memoria per ogni fascia di voto:
+
 | VOTO     | TEMPO  | MEMORIA   | ESITO              |
 | ---------|--------|-----------|--------------------|
 | OPEN (*) | 45.0 s | 150.0 MiB | :white_check_mark: |
@@ -42,8 +38,9 @@ Di seguito sono elencati i rispettivi requisiti di tempo e memoria per ogni fasc
 | 30       | 4.0 s  | 15.0 MiB  | :white_check_mark: |
 | 30L      | 1.5 s  | 14.0 MiB  | :white_check_mark: |
 
-(*) OPEN è un test con ampi margini di tempo e memoria utilizzabile per permettere agli studenti di avere un riferimento sul tempo impiegto e sulla memoria utilizzata dal loro programma qualora non riuscissero a superare il test 18.
+(*) OPEN è un test con ampi margini di tempo e memoria, in modo da permettere agli studenti di avere un riferimento sul tempo impiegato e sulla memoria utilizzata dal loro programma qualora non riuscissero a superare il test 18.
 
+# Overview del mio progetto
 Timeline del mio progetto, con allegato i vari programmi con cui ho superato per la prima volta ogni fascia di voto:
 | DATA       | EVENTO             | TEMPO    | MEMORIA  | CODICE SORGENTE |
 |------------|--------------------|----------|----------|-----------------|
@@ -57,5 +54,5 @@ Timeline del mio progetto, con allegato i vari programmi con cui ho superato per
 | 04/08/2024 | Superato test 30L  | 1.497 s  | 9.22 MiB | non disponibile |
 | 04/08/2024 | Termine progetto   | N/A      | N/A      | N/A             |
 
-La pagina è incompleta.
+La pagina è incompleta.  
 I file e la pagina saranno aggiornati una volta terminato il periodo di consegna e valutazione della prova per evitare casi di plagio.
