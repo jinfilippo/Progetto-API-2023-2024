@@ -56,4 +56,4 @@ Timeline del mio progetto, con allegato i vari programmi con cui ho superato per
 | 04/08/2024 | Superato test 30L  | 1.497 s   | 9.22 MiB | non disponibile |
 
 La pagina è incompleta.  
-I file e la pagina saranno aggiornati una volta terminato il periodo di consegna e valutazione della prova per evitare casi di plagio.
+I file e la pagina saranno aggiornati una volta terminato il periodo di consegna e valutazione della prova per evitare casi di plagio (Febbraio 2025).
