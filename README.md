@@ -55,5 +55,14 @@ Timeline del mio progetto, con allegato i vari programmi con cui ho superato per
 | 04/08/2024 | Superato test 30   | 1.495 s   | 9.22 MiB | non disponibile |
 | 04/08/2024 | Superato test 30L  | 1.497 s   | 9.22 MiB | non disponibile |
 
+
+# Strumenti utilizzati
+* MacOS 14 Sonoma
+* Ubuntu 24
+* Visual Studio Code
+* Valgrind suite
+* GDB (GNU debugger) su Ubuntu
+* LLDB debugger su MacOS
+
 La pagina è incompleta.  
 I file e la pagina saranno aggiornati una volta terminato il periodo di consegna e valutazione della prova per evitare casi di plagio (Febbraio 2025).
