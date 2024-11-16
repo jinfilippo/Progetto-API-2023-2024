@@ -5,7 +5,7 @@ Il progetto viene assegnato al termine di tale corso, a Maggio/Giugno, da svolge
 Esso ha un valore di 1 CFU.  
 
 # Descrizione del progetto A.A. 2023/2024
-Il progetto richiede l'utilizzo esckusivo del linguaggio C11 (ISO/IEC 9899:2011). Inoltre è permesso solo l'utilizzo della C Standard Library, che contiene le seguenti librerie:
+Il progetto richiede l'utilizzo esclusivo del linguaggio C11 (ISO/IEC 9899:2011). Inoltre è permesso solo l'utilizzo della "C Standard Library", che contiene le seguenti librerie:
 * <assert.h>
 * <ctype.h>
 * <errno.h>
@@ -36,11 +36,11 @@ Di seguito sono elencati i rispettivi requisiti di tempo e memoria per ogni fasc
 | 18       | 14.0 s | 35.0 MiB  | :white_check_mark: |
 | 21       | 11.5 s | 30.0 MiB  | :white_check_mark: |
 | 24       | 9.0 s  | 25.0 MiB  | :white_check_mark: |
-| 27       | 6.5 s   | 20.0 MiB  | :white_check_mark: |
+| 27       | 6.5 s  | 20.0 MiB  | :white_check_mark: |
 | 30       | 4.0 s  | 15.0 MiB  | :white_check_mark: |
 | 30L      | 1.5 s  | 14.0 MiB  | :white_check_mark: |
 
-(*) OPEN è un test con ampi margini di tempo e memoria, in modo da permettere agli studenti di avere un riferimento sul tempo impiegato e sulla memoria utilizzata dal loro programma qualora non riuscissero a superare il test 18.
+(*) OPEN è un test con ampi margini di tempo e memoria, in modo da permettere agli studenti di avere un riferimento sul tempo impiegato e sulla memoria utilizzata dal loro programma, qualora non riuscissero a superare il test 18.
 
 # Overview del mio progetto
 Timeline del mio progetto, con allegato i vari programmi con cui ho superato per la prima volta ogni fascia di voto:
@@ -65,4 +65,4 @@ Timeline del mio progetto, con allegato i vari programmi con cui ho superato per
 * LLDB debugger su MacOS
 
 La pagina è incompleta.  
-I file e la pagina saranno aggiornati una volta terminato il periodo di consegna e valutazione della prova per evitare casi di plagio (Febbraio 2025).
+I file con i codici sorgente e la pagina saranno aggiornati una volta terminato il periodo di consegna e valutazione della prova per evitare casi di plagio (Febbraio 2025).
